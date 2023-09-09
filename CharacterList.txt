@@ -38,6 +38,8 @@ Naruto Uzumaki | Yellow | Hidden Leaf Ninja | 'Believe it!' | Naruto
 Rock Lee | Black | Hidden Leaf Ninja | 'A dropout will beat a genius through hard work.' | Naruto
 Sasuke Uchiha | Black | Hidden Leaf Ninja | 'If That`s How It Is, I`ll Just Have To Sever That Bond.' | Naruto
 Sakura Haruno | Pink | Hidden Leaf Ninja | 'I`ve finally caught up to the 2 of them.' | Naruto
+Arlong | Black | Pirate | 'Money is good! It's the only thing a man can really believe in!' | One Piece
+Blackbeard | Black | Warlord | 'Nobody said we were all the best of friends here!!! The only thing pirates need is an alignment of interests!!' | One Piece
 Brook | Bald | Straw Hat Pirate | 'I'll protect this look to the end because I'm coming to see you. I just hope you're waiting at our promised cape...!!!' | One Piece
 Chopper | Light Brown | Straw Hat Pirate | 'I will be all curing medicine. A doctor that can cure anything. A doctor that can cure countries! Because there is no such thing as incurable disease' | One Piece
 Franky | Blue | Straw Hat Pirate | 'I'm feeling especially super this week!' | One Piece
@@ -45,7 +47,7 @@ Nami | Orange | Straw Hat Pirate | 'What good is treasure if I'm all alone? I'd 
 Robin | Black | Straw Hat Pirate | 'History may always be repeating itself, but humans cannot go back into the past... you wouldn't understand that, would you?' | One Piece
 Sanji | Yellow | Straw Hat Pirate | 'Even if it kills me, I refuse to kick a woman!!!!' | One Piece
 Usopp | Black | Straw Hat Pirate | 'I don't care if it looks pathetic!! I survive - it's what I do!! And it's the entire reason I'm standing here alive today!!!' | One Piece
-WhiteBeard | Yellow | Whitebeard Pirate | 'No matter who your father is, we are all children of the sea' | One Piece
+WhiteBeard | Yellow | Warlord | 'No matter who your father is, we are all children of the sea' | One Piece
 Luffy | Black | Straw Hat Pirate | 'I Don't Want To Conquer Anything. I Just Think The Guy With The Most Freedom In The Entire Ocean Is The Pirate King.' | One Piece
 Zoro | Green | Straw Hat Pirate | 'I...I will...I WILL NEVER LOSE AGAIN! Until I defeat him and become the greatest swordsman, I'll never be defeated again!' | One Piece
 Saitama | Bald | Hero | 'Human strength lies in the ability to change yourself.' | One Punch Man
