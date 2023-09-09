@@ -1,9 +1,10 @@
 import random
 
 class Character():
-    def __init__(self, name, hair, quote, anime):
+    def __init__(self, name, hair, alignment, quote, anime):
         self.name = name
         self.hair = hair
+        self.alignment = alignment
         self.quote = quote
         self.anime = anime
 
@@ -13,7 +14,7 @@ with open('CharacterList.txt', 'rt') as myFile:
 characterArray = contents.split('\n')
 for char in characterArray:
     character = char.split(' | ')
-    allCharactersList.append(Character(character[0], character[1], character[2], character[3]))
+    allCharactersList.append(Character(character[0], character[1], character[2], character[3], character[4]))
 
 while True:
     response = input("Ready to guess a character? ")
@@ -24,6 +25,7 @@ while True:
         hintcount = 0
         Playing = True
         characterName = chosenCharacter.name
+        keepGoing = False
         while Playing:
             print(' ')
             response = input("Take a guess or say 'hint' if you need another hint! ")
@@ -32,15 +34,24 @@ while True:
                     print("Wow! You guessed the character! It was in fact: " + chosenCharacter.name)
                     Playing = False
                 else:
-                    print("Sorry! This character is incorrect!")
+                    print("Sorry! This character is incorrect or you didn't type enough of their name! Minimum of 4 characters!")
             else:
                 hintcount += 1
                 if hintcount == 1:
                     print("This character's hair color is: " + chosenCharacter.hair)
                 elif hintcount == 2:
-                    print("One of this character's quotes from the show is: " + chosenCharacter.quote)
+                    print("The characters role, alignment/affiliation, or job in the show is: " + chosenCharacter.alignment)
+                elif hintcount == 3:
+                    print("This is your last hint! One of this character's quotes from the show is: " + chosenCharacter.quote)
                 else:
                     print("Sorry! You used up all of your available hints!")
+                    if not keepGoing:
+                        doesGiveUp = input("If you give up please type: 'fold', if you want to keep guessing please type: 'continue'...")
+                        if doesGiveUp == "fold":
+                            print("Better luck next time! The character was: " + chosenCharacter.name)
+                            Playing = False
+                        else:
+                            keepGoing = True
     elif response.lower() == "no" or response.lower() == "quit" or response.lower() == "exit":
         print("aw man :(")
         break
