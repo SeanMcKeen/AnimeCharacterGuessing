@@ -43,7 +43,7 @@ while True:
                 if hintcount == 1:
                     print("This character's hair color is: " + chosenCharacter.hair)
                 elif hintcount == 2:
-                    print("The characters role, alignment/affiliation, or job in the show is: " + chosenCharacter.alignment)
+                    print("The characters role, title, alignment/affiliation, or job in the show is: " + chosenCharacter.alignment)
                 elif hintcount == 3:
                     print("This is your last hint! One of this character's quotes from the show is: " + chosenCharacter.quote)
                 else:
