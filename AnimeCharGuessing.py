@@ -14,7 +14,6 @@ with open('CharacterList.txt', 'rt') as myFile:
 characterArray = contents.split('\n')
 for char in characterArray:
     character = char.split(' | ')
-    print(character)
     allCharactersList.append(Character(character[0], character[1], character[2], character[3], character[4]))
 
 while True:
