@@ -1,4 +1,6 @@
 import random
+import os
+import time
 
 class Character():
     def __init__(self, name, hair, alignment, quote, anime):
@@ -17,6 +19,7 @@ for char in characterArray:
     allCharactersList.append(Character(character[0], character[1], character[2], character[3], character[4]))
 
 while True:
+    os.system('cls')
     response = input("Ready to guess a character? ")
     if response.lower() == "yes":
         chosenCharacter = random.choice(allCharactersList)
@@ -58,3 +61,4 @@ while True:
     else:
         print('Unknown option, did you type it right?')
     print(' ')
+    time.sleep(3)
