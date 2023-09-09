@@ -1,3 +1,3 @@
 # AnimeCharacterGuessing
 a simple console-based game made using python to guess anime characters
-Need python 3.11+ to run this or download the packaged version
+Packaged version,  open the folder and run the EXE file
