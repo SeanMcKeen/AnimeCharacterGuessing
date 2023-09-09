@@ -1,4 +1,3 @@
-Akame | Black | Night Raid | 'If you can't find a reason to fight, then you shouldn't be fighting.' | Akame Ga Kill
 Asta | Gray | Magic Knight | 'Even if you weren't chosen, even if you weren't wanted, even if you aren't forgiven... You need to stand your ground no matter how pathetic you are!' | Black Clover
 Fuegoleon | Orange | Magic Knight | 'Being weak is nothing to be ashamed of... Staying weak is!' | Black Clover
 Julius Novachrono | Yellow | Wizard King | 'You can't protect others with pride, and the trust of others comes with merit.' | Black Clover
@@ -15,10 +14,18 @@ Vegeta | Black | Saiyan | 'Push through the pain; giving up hurts more.' | Drago
 Natsu Dragneel | Pink | Mage of Fairy Tail Guild | 'We don't have to know what tomorrow holds! That's why we can live for everything we're worth today!' | Fairy Tail
 Archer | White | Servant | 'It is at the moment of death that humanity has value.' | Fate
 Gilgamesh | Yellow | Servant | 'Mongrels though they may be, they're still figures of some slight renown.' | Fate
-Rider | Red | Servant | 'Whatever you do, enjoy it to the fullest. That is the secret of life.' | Fate Zero
 Saber | Yellow | Servant | 'The weight of my sword is the weight of my pride. The wound from my battle with you is an honor, not a fetter.' | Fate
 Issei Hyoudou | Brown | House Gremory Pawn | 'The girls... I made their clothes rip off.' | HighSchool DxD
 Rias Gremory | Red | House Gremory King | 'Devote your life to me.' | HighSchool DxD
+Ging Freaks | Black | Zodiac | 'Something more important than the thing you're hunting could be right there by the side of the road.' | Hunter x Hunter
+Gon Freaks | Black | Hunter | 'I can't stand being on the losing end forever!!' | Hunter x Hunter
+Hisoka Morow | Red | Hunter | 'My greatest pleasure comes when such people crumple to their knees and I look down upon their disbelieving faces as their plans fail' | Hunter x Hunter
+Illumi Zolyck | Black | Hunter | 'There's no fire in you, just darkness. It sustains you, drains you of any desire. Your only joy is in causing death, and even that is fleeting' | Hunter x Hunter
+Issac Netero | White | Hunter | 'I dreamed of giving my heart and soul to battle an unstoppable adversary!! I'm a lucky man. I'm thankful for everything that led me to this point... that led me to you!!"' | Hunter x Hunter
+Killua Zolyck | White | Hunter | 'I'm so tired of killing... I just want to be a kid. Hanging out, doing stuff with Gon. That's it' | Hunter x Hunter
+Kurapika | Yellow | Hunter | 'I do not fear death. What I fear is that my rage will one day fade away.' | Hunter x Hunter
+Leorio Paradinight | Black | Hunter | 'The mind boggles!! It's always about money! Always!! That's why I want it!' | Hunter x Hunter
+Meruem | Bald | Ant | 'Who am I? Why am I here? A king with no name. A borrowed castle. My subjects are mindless drones.' | Hunter x Hunter
 Aoi Todo | Black | Jujutsu Sorcerer | 'I Have One Question For You. What Kind Of Woman Is Your Type?' | Jujutsu Kaisen
 Mahito | Gray | Special Grade Cursed Spirit | 'Life Simply Flows.' | Jujutsu Kaisen
 Megumi Fushiguro | Black | Jujutsu Sorcerer | 'It's Not About Whether I Can. I Have To Do It.' | Jujutsu Kaisen
@@ -41,8 +48,6 @@ Naruto Uzumaki | Yellow | Hidden Leaf Ninja | 'Believe it!' | Naruto
 Rock Lee | Black | Hidden Leaf Ninja | 'A dropout will beat a genius through hard work.' | Naruto
 Sasuke Uchiha | Black | Hidden Leaf Ninja | 'If That`s How It Is, I`ll Just Have To Sever That Bond.' | Naruto
 Sakura Haruno | Pink | Hidden Leaf Ninja | 'I`ve finally caught up to the 2 of them.' | Naruto
-Sora | Black | Blank | 'Life is not a game of luck. If you wanna win, work hard.' | No Game No Life
-Shiro | White | Blank | 'Chess is no different than tic-tac-toe.' | No Game No Life
 Arlong | Black | Pirate | 'Money is good! It's the only thing a man can really believe in!' | One Piece
 Blackbeard | Black | Warlord | 'Nobody said we were all the best of friends here!!! The only thing pirates need is an alignment of interests!!' | One Piece
 Brook | Bald | Straw Hat Pirate | 'I'll protect this look to the end because I'm coming to see you. I just hope you're waiting at our promised cape...!!!' | One Piece
@@ -56,10 +61,8 @@ WhiteBeard | Yellow | Warlord | 'No matter who your father is, we are all childr
 Luffy | Black | Straw Hat Pirate | 'I Don't Want To Conquer Anything. I Just Think The Guy With The Most Freedom In The Entire Ocean Is The Pirate King.' | One Piece
 Zoro | Green | Straw Hat Pirate | 'I...I will...I WILL NEVER LOSE AGAIN! Until I defeat him and become the greatest swordsman, I'll never be defeated again!' | One Piece
 Saitama | Bald | Hero | 'Human strength lies in the ability to change yourself.' | One Punch Man
-Hachiman Hikigaya | Black | Service Club | 'Hard work betrays none, but dreams betray many.' | Oregairu/My Teen Romantic Comedy SNAFU
 Juuzou Suzuya | White | Investigator | 'Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?' | Tokyo Ghoul
 Ken Kaneki | White | One-Eyed Ghoul | 'Never trust anyone too much; remember, the devil was once an angel.' | Tokyo Ghoul
 Alice Zuberg | Yellow | Integrity Knight | 'Everybody can fight. It’s just a choice of whether you should.' | Sword Art Online
 Asuna | Brown | Knights of The Blood Oath | 'There Is One Thing I've Learned Here. To Keep Doing Your Best, Up Until The Very End.' | Sword Art Online
 Kirito | Black | Black Swordsman | 'You can go anywhere you want in this world with a single blade. This may be a virtual world, but I feel more alive here than in the real world' | Sword Art Online
-Yuuki Kono | Black | Absolute Sword | 'Sometimes you have to fight to get your point across.' | Sword Art Online
