@@ -1,7 +1,7 @@
-Asta | Gray | Magic Knight | 'Even if you weren't chosen, even if you weren't wanted, even if you aren't forgiven… You need to stand your ground no matter how pathetic you are!' | Black Clover
-Fuegoleon | Orange | Magic Knight | 'Being weak is nothing to be ashamed of… Staying weak is!' | Black Clover
+Asta | Gray | Magic Knight | 'Even if you weren't chosen, even if you weren't wanted, even if you aren't forgiven... You need to stand your ground no matter how pathetic you are!' | Black Clover
+Fuegoleon | Orange | Magic Knight | 'Being weak is nothing to be ashamed of... Staying weak is!' | Black Clover
 Julius Novachrono | Yellow | Wizard King | 'You can't protect others with pride, and the trust of others comes with merit.' | Black Clover
-Yuno | Black | Magic Knight |'That's the thing about you nobles; when you stumble, you break.' | Black Clover
+Yuno | Black | Magic Knight | 'That's the thing about you nobles; when you stumble, you break.' | Black Clover
 Yami | Black | Magic Knight Captain | 'Your fate, really? You're saying you ended up here because it's your fate? Yeah, yeah, old Mr. Fate, I know. Man, I'm not a fan of that guy. Why would anyone obey him? I live how I want, even if it means kicking fate's ass.' | Black Clover
 Aizen Sosuke | Brown | Soul Reaper | 'Fear Is Necessary For Evolution. The Fear That Could Be Destroyed At Any Moment.' | Bleach
 Ichigo Kurosaki | Orange | Soul Reaper | 'Revenge is just the path you take to escape your suffering' | Bleach
@@ -18,7 +18,7 @@ Saber | Yellow | Servant | 'The weight of my sword is the weight of my pride. Th
 Issei Hyoudou | Brown | House Gremory Pawn | 'The girls... I made their clothes rip off.' | HighSchool DxD
 Rias Gremory | Red | House Gremory King | 'Devote your life to me.' | HighSchool DxD
 Aoi Todo | Black | Jujutsu Sorcerer | 'I Have One Question For You. What Kind Of Woman Is Your Type?' | Jujutsu Kaisen
-Mahito | Gray | Special Grade Cursed Spirit 'Life Simply Flows.' | Jujutsu Kaisen
+Mahito | Gray | Special Grade Cursed Spirit | 'Life Simply Flows.' | Jujutsu Kaisen
 Megumi Fushiguro | Black | Jujutsu Sorcerer | 'It's Not About Whether I Can. I Have To Do It.' | Jujutsu Kaisen
 Nobara Kugisaki | Orange | Jujutsu Sorcerer | 'Cheer Up, Guys. At Least I'm Here.' | Jujutsu Kaisen
 Panda | Black + White | Jujutsu Sorcerer | 'I Know You Had Your Hardships, Mechamaru, But Having More Hardships Doesn't Make You Right.' | Jujutsu Kaisen
@@ -26,7 +26,7 @@ Ryomen Sukuna | Pink | King of Curses | 'Any Hierarchy Other Than Strength Is Bo
 Satoru Gojo | White | Jujutsu Sorcerer | 'Don't Worry, I'm The Strongest' | Jujutsu Kaisen
 Yuji Itadori | Pink | Jujutsu Sorcerer | 'I'm into girls like Jennifer Lawrence. Nice to meet you!' | Jujutsu Kaisen
 All For One | Bald | Villain | 'If it's freedom you desire, then submit to me, my brethren. And bear witness, by my side.' | My Hero Academia
-All Might | Yellow | Hero |'I am here!' | My Hero Academia
+All Might | Yellow | Hero | 'I am here!' | My Hero Academia
 Dabi | White | Villain | 'The past never dies!' | My Hero Academia
 Deku / Izuku Midoriya | Green | Hero | 'I Want To Be Strong Enough So No One Will Worry About Me.' | My Hero Academia
 Endeavor | Red | Hero | 'That's right, you'll never be All Might, or Deku. Because I've only ever done battle with the weakness within.' | My Hero Academia

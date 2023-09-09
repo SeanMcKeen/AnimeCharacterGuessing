@@ -14,6 +14,7 @@ with open('CharacterList.txt', 'rt') as myFile:
 characterArray = contents.split('\n')
 for char in characterArray:
     character = char.split(' | ')
+    print(character)
     allCharactersList.append(Character(character[0], character[1], character[2], character[3], character[4]))
 
 while True:
@@ -46,7 +47,7 @@ while True:
                 else:
                     print("Sorry! You used up all of your available hints!")
                     if not keepGoing:
-                        doesGiveUp = input("If you give up please type: 'fold', if you want to keep guessing please type: 'continue'...")
+                        doesGiveUp = input("If you give up please type: 'fold', if you want to keep guessing please type: 'continue'... ")
                         if doesGiveUp == "fold":
                             print("Better luck next time! The character was: " + chosenCharacter.name)
                             Playing = False
