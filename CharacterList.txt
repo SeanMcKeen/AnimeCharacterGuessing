@@ -54,6 +54,6 @@ Zoro | Green | Straw Hat Pirate | 'I...I will...I WILL NEVER LOSE AGAIN! Until I
 Saitama | Bald | Hero | 'Human strength lies in the ability to change yourself.' | One Punch Man
 Juuzou Suzuya | White | Investigator | 'Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?' | Tokyo Ghoul
 Ken Kaneki | White | One-Eyed Ghoul | 'Never trust anyone too much; remember, the devil was once an angel.' | Tokyo Ghoul
-Alice Zuberg | Yellow | Integrity Knight | 'Everybody can fight.It’s just a choice of whether you should.' | Sword Art Online
+Alice Zuberg | Yellow | Integrity Knight | 'Everybody can fight. It’s just a choice of whether you should.' | Sword Art Online
 Asuna | Brown | Knights of The Blood Oath | 'There Is One Thing I've Learned Here. To Keep Doing Your Best, Up Until The Very End.' | Sword Art Online
 Kirito | Black | Black Swordsman | 'You can go anywhere you want in this world with a single blade. This may be a virtual world, but I feel more alive here than in the real world' | Sword Art Online
